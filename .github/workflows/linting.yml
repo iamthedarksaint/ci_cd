@@ -26,6 +26,6 @@ jobs:
             - name: Format with black
               run: pwd
             - name: Lint with flake8
-              run: flake8 .main.py 
+              run: flake8 main.py 
 
 
